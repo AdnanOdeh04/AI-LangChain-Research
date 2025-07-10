@@ -62,7 +62,7 @@ pip install ollama
 
 ### 1. Clone and Setup
 ```bash
-git clone <your-repository>
+git clone <(https://github.com/AdnanOdeh04/AI-LangChain-Research.git)>
 cd rag-system
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
